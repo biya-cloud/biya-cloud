@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**biya-cloud/biya-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rabiya Noor! 
 
-Here are some ideas to get you started:
+## 🎓 AWS Certified Cloud Practitioner
+I am thrilled to share that I have officially passed my **AWS Certified Cloud Practitioner** exam!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.credly.com/earner/earned/badge/f35e74a7-639f-4463-9e59-43c345725192" target="_blank">
+    <img src="https://images.credly.com/images/00634c6c-e0e6-4272-9a72-7cf9931b8d1b/image.png" width="200" alt="AWS Cloud Practitioner Badge">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/earner/earned/badge/f35e74a7-639f-4463-9e59-43c345725192" target="_blank">👉 Click here to verify my Certification on Credly 👈</a>
+</p>
+
+---
+
+### 💻 About Me:
+* ☁️ **AWS Cloud Computing Student** | Passionate about S3, EC2, IAM, and Cloud Solutions.
+* 🌐 **My Portfolio:** Check out my personal website hosted on AWS S3!
