@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Rabiya Noor! 👋
+# Hi, I'm Rabiya Noor! 
 
 ## 🎓 My AWS Certifications & Badges
 
@@ -9,14 +9,14 @@ I am highly passionate about cloud computing and have successfully earned the fo
 ---
 
 ### 1️⃣ AWS Certified Cloud Practitioner (Official Certification)
-*I have officially passed the AWS Certified Cloud Practitioner exam!* 🚀☁️
+*I have officially passed the AWS Certified Cloud Practitioner exam!* 
 
 * **Status:** Active (Passed July 2026)
 
 ---
 
 ### 2️⃣ AWS Cloud Quest: Cloud Practitioner (Hands-on Training)
-*Demonstrated practical, hands-on experience by building scalable and efficient cloud infrastructures.* 🎮⚡
+*Demonstrated practical, hands-on experience by building scalable and efficient cloud infrastructures.* 
 
 * **Verify Badge:** [Verify my Cloud Quest Badge on Credly](https://www.credly.com/earner/earned/badge/f35e74a7-639f-4463-9e59-43c345725192)
 
